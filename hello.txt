@@ -1,1 +1,2 @@
 Hello DevOps!
+Hello DevOps, this is Day 2.
